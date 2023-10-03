@@ -14,10 +14,10 @@ This privacy notice for <b>Exclusive Pumping Apps</b> (‘Company‘, ‘we‘, 
 
 ## What information does the Application obtain and how is it used?
 
-<b>The application collect only personal information that you provide to the application.</b> This means for example: data about milk expressing (in case of LactoLand and Pump Mommy) or data about your crochet/knitting projects. It is being stored on your device only (it is not connected to our server) and you cen delete all information any time you want by yourself. 
+<b>The application collect only personal information that you provide to the application.</b> This means for example: data about milk expressing (in case of LactoLand and Pump Mommy) or data about your crochet/knitting projects. It is being stored on your device only (it is not connected to our server) and you can delete all information any time you want by yourself. If you have any problems with deleting data please let us know.
 
 ### Third parties
-The application is connected with Google Ad Mob, Google Analytics and Google Firebase.
+The application is connected with Google Ad Mob, Google Analytics and Google Firebase for analytical purposes only.
 
 ### Information automatically collected
 For better application optimization we use Google Analytics tool in our app. It collects some information about your location, device, how do you use the application. It cannot be connected to a specific user (the information is statistical for all users together).
